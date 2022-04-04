@@ -16,8 +16,20 @@ You can click the Preview link to take a look at your changes.
 ## Python
 
 ## Csharp
+### base
+### tools
+ * [Try.dot.net](https://try.dot.net/)
 
-## Optimization
+## KnowHow
+### Control and ML
+ * [Steve Brunton Data driven science and engineering](http://databookuw.com/)
+
+
+### Optimization
+
 
 ## Resources
- * [Steve Brunton Data driven science and engineering](http://databookuw.com/)
+### Images and SVGs
+ * [SVGrepo](https://www.svgrepo.com/)
+ * [Icon8](https://icons8.com/)
+
