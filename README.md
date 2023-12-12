@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Notes
  * [develop notes](develop/NOTES.md)
+ * [GIT notes](develop/GIT.md)
 
 # Links
 
