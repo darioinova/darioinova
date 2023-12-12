@@ -10,8 +10,8 @@ darioinova/darioinova is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 # Notes
- * [develop notes](develop/NOTES.md)
- * [GIT notes](develop/GIT.md)
+ * :musical_keyboard: [develop notes](develop/NOTES.md)
+ * :octocat: [GIT notes](develop/GIT.md)
 
 # Links
 
