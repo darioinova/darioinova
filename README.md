@@ -20,6 +20,14 @@ You can click the Preview link to take a look at your changes.
 
 ## Python
 
+### crazy stuff
+
+Fun from [here](https://www.bitecode.dev/p/this-is-valid-python-syntax)
+```python
+answer = [*(_ for [[][:], *_] in [(("✅", "💞"), "👋")])]
+```
+
+
 
 ## C#
 ### base
