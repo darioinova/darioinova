@@ -29,6 +29,7 @@ answer = [*(_ for [[][:], *_] in [(("✅", "💞"), "👋")])]
 
 
 
+
 ## C#
 ### base
 ### tools
@@ -47,3 +48,15 @@ answer = [*(_ for [[][:], *_] in [(("✅", "💞"), "👋")])]
  * [SVGrepo](https://www.svgrepo.com/)
  * [Icon8](https://icons8.com/)
 
+# Windows fighting
+
+## Network
+
+### DNS
+```shell
+ipconfig /flushdns
+arp -D
+nbtstat -RR
+netsh int ip reset
+netsh winsock reset
+```
